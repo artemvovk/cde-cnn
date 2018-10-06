@@ -25,6 +25,10 @@
 #   unused-packages = true
 
 
+#[[constraint]]
+#  name = "github.com/tealeg/xlsx"
+#  version = "1.0.3"
+
 [prune]
   go-tests = true
   unused-packages = true
